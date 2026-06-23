@@ -126,7 +126,7 @@ Successfully developed an interactive Tableau dashboard that transforms Airbnb l
 
 ## Author
 
-### Venkatesh
+### Venkateswarlu Mekala
 
 Aspiring Data Analyst
 
@@ -134,8 +134,8 @@ Aspiring Data Analyst
 
 ### Connect With Me
 
-- LinkedIn: Add Your LinkedIn Profile Link
-- GitHub: Add Your GitHub Profile Link
+- LinkedIn: https://www.linkedin.com/in/venkateswarlu-vm/
+- GitHub: https://github.com/Venkatesh-Codes
 
 ---
 
